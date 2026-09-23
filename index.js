@@ -5,7 +5,7 @@ app.use(express.json());
 let products = [
     {
         id: 1,
-        name: "Corsair HS45 Headphone",
+        name: "Corsair HS45",
         price: 4500,
         imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8gWBYEsEc-BIBkLfkTItnNdjABTkmYTqibZh4E10XHg&s=10",
         desc: "A high Quality Gaming.",
